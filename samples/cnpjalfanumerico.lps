@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="cnpjalfanumerico.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frPrincipal"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uPrincipal"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="64"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <UnitName Value="LazCNPJAlfaNumerico"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="27"/>
+        <CursorPos X="36" Y="41"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="26">
+      <Position>
+        <Filename Value="uprincipal.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="44" Column="30" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="45" Column="23" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="15" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="118" Column="11" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="154" Column="5" TopLine="119"/>
+      </Position>
+      <Position>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="23" Column="23" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="24" Column="23" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="23" Column="23" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="25" Column="23" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="55" Column="45" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="52" Column="23" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="154" Column="10" TopLine="120"/>
+      </Position>
+      <Position>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="55" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="26" Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="53" Column="27" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="84" Column="29" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="99" Column="29" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="38" Column="25" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="38" Column="25" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="145" Column="21" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="38" Column="25" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="145" Column="21" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="44" Column="66" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="136" Column="5" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\lazcnpjalfanumerico.pas"/>
+        <Caret Line="2"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

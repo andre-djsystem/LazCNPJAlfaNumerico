@@ -72,4 +72,4 @@ end.
 
 ## ⚠️ License
 
-LazCNPJAlfaNumerico é software livre criado com base nos exemplos disponibilizados na DFe NTCJ 2025.001_CNPJ Alfa_v1.00.pdf com auxílio do ChatGPT, sendo licenciado sob a [MIT License](https://github.com/andre-djsystem/LazCNPJAlfaNumerico/blob/main/LICENSE).
+LazCNPJAlfaNumerico é software livre criado com base nos exemplos disponibilizados na [DFe NTCJ 2025.001_CNPJ Alfa_v1.00.pdf](https://github.com/andre-djsystem/LazCNPJAlfaNumerico/blob/main/DFe%20NTCJ%202025.001_CNPJ%20Alfa_v1.00.pdf) com auxílio do ChatGPT, sendo licenciado sob a [MIT License](https://github.com/andre-djsystem/LazCNPJAlfaNumerico/blob/main/LICENSE).
